@@ -1,6 +1,6 @@
-# Notes App
+# Noteify
 
-A simple and elegant note-taking application built with React and Vite. This app allows users to create, view, and delete notes with a clean and responsive user interface.
+A simple and elegant note-taking application built with React and Vite. Noteify allows users to create, view, and delete notes with a clean and responsive user interface.
 
 ## Features
 
@@ -22,7 +22,7 @@ A simple and elegant note-taking application built with React and Vite. This app
 ## Project Structure
 
 ```
-Notes-App/
+Noteify/
 ├── src/
 │   ├── components/
 │   │   ├── NoteCard.jsx      # Individual note card component
@@ -43,7 +43,7 @@ Notes-App/
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd Notes-App
+cd Noteify
 ```
 
 2. Install dependencies:
