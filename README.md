@@ -2,6 +2,9 @@
 
 A simple and elegant note-taking application built with React and Vite. Noteify allows users to create, view, and delete notes with a clean and responsive user interface.
 
+# Live Demo
+https://bhavyasoneji.github.io/Noteify/
+
 ## Features
 
 - **Add Notes**: Create new notes with a title and description
